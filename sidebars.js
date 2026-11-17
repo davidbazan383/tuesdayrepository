@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'zombie',
-      label: 'Defending our Home',
+      label: 'Kurt Vonnegut’s Breakfast of Champions Excerpt',
       className: 'sidebar-paper-title',
     },
     {
