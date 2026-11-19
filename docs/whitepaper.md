@@ -32,6 +32,7 @@ We are healthy only to the extent that our ideas are humane
 :::
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
+![Picture of Man in Space](/img/Space.jpg)
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
