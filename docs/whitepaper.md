@@ -101,6 +101,13 @@ We hope that this information inspires immediate action among Isla Vista residen
 
 The survey was conducted using the ZAS (Zombie Apocalypse Survey), a widely-used national scale devised by Kenneth Smith. The ZAS asks respondents to rate their agreement with a series of statements about zombie survival on a five-point scale, from "strongly disagree" to "strongly agree." We recruited 173 undergraduate students on and around the UCSB campus, and all responses were anonymous.
 
+<iframe
+title="I would shoot my fellow students in the leg."
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/gzZzI/" height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+
 ### References {#references}
 
 <div>
